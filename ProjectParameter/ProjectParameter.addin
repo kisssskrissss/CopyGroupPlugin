@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>C:\Program Files\RevitApiTraining\ProjectParameter.dll</Assembly>
+    <AddInId>08EC52A3-124D-4DE1-9D94-E7FD2781538C</AddInId>
+    <FullClassName>ProjectParameter.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Параметр проекта диаметр трубы</Text>
+  </AddIn>
+</RevitAddIns>

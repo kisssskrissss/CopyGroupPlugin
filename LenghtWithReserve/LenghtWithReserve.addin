@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>C:\Program Files\RevitApiTraining\LenghtWithReserve.dll</Assembly>
+    <AddInId>1202C986-3036-4E90-8E4A-0958A2F7E8D1</AddInId>
+    <FullClassName>LenghtWithReserve.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Запись параметра длина с запасом</Text>
+  </AddIn>
+</RevitAddIns>
